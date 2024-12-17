@@ -480,7 +480,7 @@ section {
 
 /* Titre */
 .grid__skills h3 {
-  grid-column: span 2;
+  grid-column: span 3;
   /* Titre sur deux colonnes */
   font-size: 1.8em;
   color: #333;
